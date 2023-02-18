@@ -7,5 +7,3 @@ The motivation is to solidify the concepts learned in Express.js in a practial w
 ## License
 
 Liscens.MIT
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
